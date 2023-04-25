@@ -19,7 +19,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Mi nombre es Carlos Ivan Aguilar Ortega estudio Ingenieria en computacion en la Univeridad UAEMEX Valle de Mexico, miscalificaciones no son tan buenas pero tampoco tan malas, soy estudiante Regular. En mis tiempos libres me gusta hacer ejercicio jugar viedojuegos y hablar o estar con mi novia. Llevamos 3 anios saliendo y me gusta todo de ella [subreddit](https://www.youtube.com/watch?v=dvMCe5znBAA). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpeg` and put it in the `img/` folder.
+Mi nombre es Carlos Ivan Aguilar Ortega estudio Ingenieria en computacion en la Univeridad UAEMEX Valle de Mexico, miscalificaciones no son tan buenas pero tampoco tan malas, soy estudiante Regular. En mis tiempos libres me gusta hacer ejercicio jugar viedojuegos y hablar o estar con mi novia. Llevamos 3 años saliendo y me gusta todo de ella [Youtube](https://www.youtube.com/watch?v=dvMCe5znBAA). Una de mis canciones favoritas es de Linkin Park la cual se encuentra en [Youtube](https://www.youtube.com/watch?v=0xyxtzD54rM) 
+
+
+
+You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpeg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
