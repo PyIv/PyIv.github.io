@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
   address: >
     <p>555 your office number</p>
@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Mi nombre es Carlos Ivan Aguilar Ortega estudio Ingenieria en computacion en la Univeridad UAEMEX Valle de Mexico, miscalificaciones no son tan buenas pero tampoco tan malas, soy estudiante Regular. En mis tiempos libres me gusta hacer ejercicio jugar viedojuegos y hablar o estar con mi novia. Llevamos 3 anios saliendo y me gusta todo de ella [subreddit](https://www.youtube.com/watch?v=dvMCe5znBAA). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpeg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
